@@ -1,5 +1,5 @@
 {
-  "name": "gl-react-native",
+  "name": "@gronda-team/gl-react-native",
   "version": "2.57.0",
   "description": "OpenGL bindings for react-native to implement complex effects over images and components, in the descriptive VDOM paradigm",
   "repository": {
@@ -24,5 +24,11 @@
   },
   "dependencies": {
     "invariant": "2.2.0"
+  },
+  "scripts": {
+    "test": "echo empty"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
