@@ -4,12 +4,12 @@
   "description": "OpenGL bindings for react-native to implement complex effects over images and components, in the descriptive VDOM paradigm",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProjectSeptemberInc/gl-react-native.git"
+    "url": "git+https://github.com/gronda-team/gl-react-native-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/ProjectSeptemberInc/gl-react-native/issues"
+    "url": "https://github.com/gronda-team/gl-react-native-v2/issues"
   },
-  "homepage": "https://github.com/ProjectSeptemberInc/gl-react-native#readme",
+  "homepage": "https://github.com/gronda-team/gl-react-native-v2#readme",
   "keywords": [
     "gl",
     "opengl",
